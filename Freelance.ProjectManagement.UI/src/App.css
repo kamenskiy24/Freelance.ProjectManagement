@@ -1,0 +1,8 @@
+
+.header {
+    margin-top: 0px;
+}
+
+.dx-datagrid-header-panel, .dx-datagrid-header-panel .dx-toolbar-items-container {
+    background-color: rgb(250, 250, 250);
+}
