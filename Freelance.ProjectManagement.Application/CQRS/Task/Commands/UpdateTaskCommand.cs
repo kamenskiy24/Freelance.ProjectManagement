@@ -4,6 +4,7 @@ using Freelance.ProjectManagement.Application.Exceptions;
 using Freelance.ProjectManagement.Core;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using TaskStatus = Freelance.ProjectManagement.Core.Enums.TaskStatus;
 
 namespace Freelance.ProjectManagement.Application.CQRS.Task.Commands
 {
